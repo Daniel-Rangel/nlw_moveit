@@ -9,7 +9,7 @@ export function ChallengeBox(){
                 <div className={styles.ChallengeActive}>
                     <header>Ganhe 400 px</header>
                     <main>
-                        <img src="icons/bodt.svg" alt=""/>
+                        <img src="icons/body.svg" alt=""/>
                         <strong>Novo desafio</strong>
                         <p>Levante e faça uma caminhada de 3 minutos</p>
                     </main>
